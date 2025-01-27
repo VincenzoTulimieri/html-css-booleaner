@@ -1,13 +1,13 @@
-#intestazione{width: 20000px;
-height: 50px;
+.intestazione{width: 20000px;
+height: 100px;
 background-color:rgb(73, 148, 247);
 background-image:url(../img/pattern.png);
-border-collapse: collapse;
-background-size:200px;
 
 }
 
-.logo{width:100px;}
+.logo{width:200px;
+    
+}
 
 .titolo{width: 600px;}
 
